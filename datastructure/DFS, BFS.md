@@ -187,7 +187,7 @@ public class Main {
 
 (방문 기준) 번호가 낮은 인접 노드부터 : 시작노드 1
 
-![img_3.png](img_3.png)
+![화면 캡처 2023-06-11 230901](https://github.com/GOBUMGYU/SCU-3.2/assets/106207558/0d4447e4-130b-4175-b7df-4cc3291e40a3)
 
 ```java
 public class Main {
@@ -255,7 +255,7 @@ public class Main {
 
 (방문 기준) 번호가 낮은 인접 노드부터 : 시작노드 1
 
-![img_4.png](img_4.png)
+![화면 캡처 2023-06-11 230901](https://github.com/GOBUMGYU/SCU-3.2/assets/106207558/0d4447e4-130b-4175-b7df-4cc3291e40a3)
 
 ```java
 public class Main {
